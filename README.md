@@ -21,9 +21,9 @@ A visually stunning, real-time multiplayer Tic Tac Toe game with an authoritativ
    ```env
    MONGODB_URI=mongodb://localhost:27017/tictactoe
    PORT=3001
-   JWT_SECRET=your_ultra_secure_esports_secret
-   EMAIL_USER=your-email@gmail.com
-   EMAIL_PASS=your-app-password
+   JWT_SECRET=jwt_secret
+   EMAIL_USER=email@testmail.com
+   EMAIL_PASS=app-password
    ```
 
 3. **Install Dependencies:**
